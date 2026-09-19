@@ -54,6 +54,156 @@ const products = [
     image: '/images/parts/top-panel.svg',
     description: 'Replacement top cover / lid panel. Send your laptop model and colour on WhatsApp for availability.',
     availability: 'Limited Stock'
+  }},
+  {
+    id: 'namo-0005',
+    name: 'Laptop Top Panel',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'top-panel',
+    image: '/images/parts/top-panel.svg',
+    description: 'Available for all major brands. Share your exact model on WhatsApp for confirmation.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0006',
+    name: 'Laptop Bezel',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'bezel',
+    image: '/images/parts/bezel.svg',
+    description: 'Available for all major brands. Share your exact model on WhatsApp for confirmation.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0007',
+    name: 'Laptop C Panel',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'c-panel',
+    image: '/images/parts/c-panel.svg',
+    description: 'Available for all major brands. Share your exact model on WhatsApp for confirmation.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0008',
+    name: 'Laptop Base Panel',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'base-panel',
+    image: '/images/parts/base-panel.svg',
+    description: 'Available for all major brands. Share your exact model on WhatsApp for confirmation.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0009',
+    name: 'Laptop C Panel + Keyboard',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'c-panel-keyboard',
+    image: '/images/parts/other-parts.svg',
+    description: 'Combined palmrest and keyboard unit. Available for all major brands. Share your exact model on WhatsApp.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0010',
+    name: 'Laptop Trackpad',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'touchpad',
+    image: '/images/parts/touchpad.svg',
+    description: 'Available for all major brands. Share your exact model on WhatsApp for confirmation.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0011',
+    name: 'Laptop Touchpad Clicks',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'touchpad-clicks',
+    image: '/images/parts/other-parts.svg',
+    description: 'Click buttons for the touchpad. Available for all major brands. Share your exact model on WhatsApp.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0012',
+    name: 'Laptop Fan',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'fan',
+    image: '/images/parts/fan.svg',
+    description: 'Available for all major brands. Share your exact model on WhatsApp for confirmation.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0013',
+    name: 'Laptop Speaker',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'speaker',
+    image: '/images/parts/speaker.svg',
+    description: 'Available for all major brands. Share your exact model on WhatsApp for confirmation.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0014',
+    name: 'Laptop Display Cable',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'display-cable',
+    image: '/images/parts/display-cable.svg',
+    description: 'Available for all major brands. Share your exact model on WhatsApp for confirmation.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0015',
+    name: 'Laptop On/Off Switch',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'power-switch',
+    image: '/images/parts/other-parts.svg',
+    description: 'Power button switch. Available for all major brands. Share your exact model on WhatsApp.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0016',
+    name: 'Laptop DC Jack',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'dc-jack',
+    image: '/images/parts/other-parts.svg',
+    description: 'Charging port / DC jack. Available for all major brands. Share your exact model on WhatsApp.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0017',
+    name: 'Laptop Hinges',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'hinges',
+    image: '/images/parts/hinges.svg',
+    description: 'Available for all major brands. Share your exact model on WhatsApp for confirmation.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0018',
+    name: 'Laptop Hinges Cap',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'hinges-cap',
+    image: '/images/parts/other-parts.svg',
+    description: 'Hinge cover caps. Available for all major brands. Share your exact model on WhatsApp.',
+    availability: 'In Stock'
+  },
+  {
+    id: 'namo-0019',
+    name: 'Laptop Webcam (Camera)',
+    brand: 'HP, Dell, Lenovo, Acer, ASUS, MSI, Toshiba, Samsung',
+    model: 'All Models',
+    category: 'webcam',
+    image: '/images/parts/other-parts.svg',
+    description: 'Internal webcam module. Available for all major brands. Share your exact model on WhatsApp.',
+    availability: 'In Stock'
   }
 ]
 
